@@ -1,6 +1,6 @@
 {
 	"Name": "Sewnangel Season",
-	"Version": 1781022873,
+	"Version": 1781157033,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -241,6 +241,7 @@
 				"38",
 				"39",
 				"76",
+				"96",
 				"109",
 				"121",
 				"36"
@@ -291,6 +292,7 @@
 				"76",
 				"80",
 				"88",
+				"96",
 				"100",
 				"92",
 				"109",
@@ -349,6 +351,7 @@
 				"82",
 				"88",
 				"95",
+				"96",
 				"100",
 				"92",
 				"109",
@@ -411,6 +414,7 @@
 				"88",
 				"281",
 				"95",
+				"96",
 				"100",
 				"92",
 				"107",
@@ -3389,6 +3393,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }

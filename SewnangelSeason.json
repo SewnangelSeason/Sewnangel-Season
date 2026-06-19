@@ -1,6 +1,6 @@
 {
 	"Name": "Sewnangel Season",
-	"Version": 1781876351,
+	"Version": 1781876772,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3394,7 +3394,7 @@
 		{
 			"Name": "The Slasher",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
